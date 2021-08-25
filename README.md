@@ -1,5 +1,5 @@
 # XAI
-This repository contains the link of various resources for explainable AI 
+This repository contains the list of various resources for Explainable AI (XAI).
 
 
 List of Papers
