@@ -14,3 +14,4 @@ Papers
 
 Tutorials
 1. NeurIPS 2020 Tutorial on Explaining ML Predictions: State-of-the-art, Challenges, and Opportunities https://www.youtube.com/watch?v=EbpU4p_0hes https://explainml-tutorial.github.io/
+2. On Explainable AI: From Theory to Motivation, Industrial Applications and Coding Practices, AAAI 2021 Tutorial https://xaitutorial2021.github.io/
